@@ -1,5 +1,10 @@
-Links de las simulaciones de tinkercad copieadas desde la cuenta del profesor de laboratorio a mi cuenta personal:
-
+Links de las simulaciones de tinkercad copieadas desde la cuenta del profesor de laboratorio a mi cuenta personal.
+Los circuitos proporcionados corresponden a:
+Un temporizador el cual no requiere codigo y su funcionamiento esta ligado a la distribucion de sus componentes:
 https://www.tinkercad.com/things/03GF00tkl74-ejemplo-555
+
+Un amplificador de potencia que tampoco requiere codigo y esta ligado a la distribucion de sus componentes:
 https://www.tinkercad.com/things/88BoLGraz0L-ejemplo-amplificador-operacional-741-
+
+Un puente h que requiere de un codigo para enviar señales e indicar el cambio de direccion de un motor:
 https://www.tinkercad.com/things/ajldqGKrnaK-control-de-motor-con-puente-en-h
